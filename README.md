@@ -3,7 +3,7 @@ Projeto final do módulo Lógica de Programação I do curso Python e Dados do p
 
 Dicionário de Palavras
 
-Desafio: Construção de um dicionário (Aurélio)
+Desafio: construção de um dicionário (Aurélio)
 Requisitos: 
 - Cadastra palavras e significados novos;
 - Pesquisa por letra;
