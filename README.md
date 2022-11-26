@@ -1,5 +1,5 @@
-# DiversidadeTech_Logica1_ProjetoFinal
-Projeto final do módulo Lógica de Programação I do curso Python e Dados do programa DiversidadeTech.
+# DiversidadeTech_Logica1
+Projeto do módulo Lógica de Programação I do curso Python e Dados do programa DiversidadeTech.
 
 Dicionário de Palavras
 
